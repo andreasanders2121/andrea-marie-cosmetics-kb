@@ -1,2 +1,3 @@
 # Andrea Marie Cosmetics - Knowledge Base & Brand Hub
 Welcome to the central repository for product formulas, launch plans, and Git command references.
+Foundation formulas are in deep research with the lab.
