@@ -11,4 +11,3 @@ Formula: Oil-based Glossy Foundation
 Formula: Branch Glossy Formula
  21d849c (Add glossy formula on feature branch)
  main
-Temporary Flash Sale: 40% Off
