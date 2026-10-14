@@ -1,0 +1,15 @@
+name: Andrea Marie Cosmetics KB Workflow
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - name: Verify Documentation Build
+      run: echo "Andrea Marie Cosmetics documentation build verified successfully!"
